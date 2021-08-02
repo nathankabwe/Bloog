@@ -1,2 +1,1 @@
-1. complete ruby on rails developer
-ddojojfo
+1.first test repo on the complete ruby 
